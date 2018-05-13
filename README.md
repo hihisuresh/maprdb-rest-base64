@@ -1,5 +1,5 @@
 # maprdb-rest-base64
-This java app calls HBASE REST API and decode the output to get the value from <column family> : <column name> 
+This java app calls HBASE REST API and decode the output to get the value from `<column family> : <column name> `
 HBASE REST API output is in base64 encoded format. Downstream app can decode the value in column family: colunmane  for use
 
 For java class path
