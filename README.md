@@ -16,7 +16,7 @@ Sample HBASE REST call
  
  Here the value is MTExMQ==  (This is base64 encoded)
  
- This program  calls the REST API and parse the output get the value and decode it. Also this saves the output to an html file ( helps when the value is in html)
+ This program  calls the REST API and parse the JSON output get the value and decode it. Also this saves the output to an html file ( helps when the value is in html)
  
  
 
