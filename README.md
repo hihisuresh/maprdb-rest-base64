@@ -8,7 +8,7 @@ b) Import jars from json-simple-1.1.1
 
 Sample HBASE REST call
 
-http://<your hbase rest node>:<port>/<hbase table>/<row key>/<column family name>:<column name>
+-- http://<your hbase rest node>:<port>/<hbase table>/<row key>/<column family name>:<column name>
  
  Sample output (in JSON) from REST call.
  
